@@ -1,4 +1,5 @@
 # data-analysis-on-nz-news-trend
+Alternative google colab link with working code: https://colab.research.google.com/drive/1NUnO3eR4KMll_sUbvacTI2yUQRut8z9x?usp=sharing
 
 ### Abstract/Summary  
 This project aims to answer the research question : “Are the news of NZ in January similar in terms of their event nature compared to those from February to April in 2020?” The “event nature” in the research question is an event actor-event category pair, and the relationship of each pair will be analysed for interest value to answer the research question.  
